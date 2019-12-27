@@ -1,0 +1,12 @@
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\bin\Debug\netcoreapp2.1\ServerUtilities.deps.json
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\bin\Debug\netcoreapp2.1\ServerUtilities.dll
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\obj\Debug\netcoreapp2.1\ServerUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\obj\Debug\netcoreapp2.1\ServerUtilities.AssemblyInfoInputs.cache
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\obj\Debug\netcoreapp2.1\ServerUtilities.AssemblyInfo.cs
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\bin\Debug\netcoreapp2.1\ServerUtilities.pdb
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\obj\Debug\netcoreapp2.1\ServerUtilities.dll
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\obj\Debug\netcoreapp2.1\ServerUtilities.pdb
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\obj\Debug\netcoreapp2.1\ServerUtilities.csprojAssemblyReference.cache
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\bin\Debug\netcoreapp2.1\enet.dll
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\bin\Debug\netcoreapp2.1\enet.dylib
+C:\Users\Piotr Langer\source\repos\HeroesServer\ServerUtilities\bin\Debug\netcoreapp2.1\libenet.so

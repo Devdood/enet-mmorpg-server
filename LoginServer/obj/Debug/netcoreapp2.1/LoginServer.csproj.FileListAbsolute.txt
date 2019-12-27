@@ -1,0 +1,11 @@
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\bin\Debug\netcoreapp2.1\LoginServer.deps.json
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\bin\Debug\netcoreapp2.1\LoginServer.runtimeconfig.json
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\bin\Debug\netcoreapp2.1\LoginServer.runtimeconfig.dev.json
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\bin\Debug\netcoreapp2.1\LoginServer.dll
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\obj\Debug\netcoreapp2.1\LoginServer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\obj\Debug\netcoreapp2.1\LoginServer.AssemblyInfoInputs.cache
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\obj\Debug\netcoreapp2.1\LoginServer.AssemblyInfo.cs
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\obj\Debug\netcoreapp2.1\LoginServer.csprojAssemblyReference.cache
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\bin\Debug\netcoreapp2.1\enet.dll
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\bin\Debug\netcoreapp2.1\enet.dylib
+C:\Users\Piotr Langer\source\repos\HeroesServer\LoginServer\bin\Debug\netcoreapp2.1\libenet.so

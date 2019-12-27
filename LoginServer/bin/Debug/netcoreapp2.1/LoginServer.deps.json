@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "6e6939b1767f53e0d34b26a92174d36dca9a8afe"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "LoginServer/1.0.0": {
+        "dependencies": {
+          "ENet-CSharp": "2.3.4"
+        },
+        "runtime": {
+          "LoginServer.dll": {}
+        }
+      },
+      "ENet-CSharp/2.3.4": {
+        "runtime": {
+          "lib/netcoreapp2.0/ENet-CSharp.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/libenet.so": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/enet.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/enet.dll": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ENet-CSharp/2.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XcNXgBSY4hdOzKZpeRTLe1HhSY4eyNGJ8pNRNiaGcfgqviMSU//47FbtQLQSBfxSe+eQKu4AdPkV4b4kV4VaZQ==",
+      "path": "enet-csharp/2.3.4",
+      "hashPath": "enet-csharp.2.3.4.nupkg.sha512"
+    }
+  }
+}

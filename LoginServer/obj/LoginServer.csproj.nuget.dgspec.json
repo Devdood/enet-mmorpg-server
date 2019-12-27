@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\LoginServer\\LoginServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\LoginServer\\LoginServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\LoginServer\\LoginServer.csproj",
+        "projectName": "LoginServer",
+        "projectPath": "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\LoginServer\\LoginServer.csproj",
+        "packagesPath": "C:\\Users\\Piotr Langer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\LoginServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Piotr Langer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\ServerUtilities\\ServerUtilities.csproj": {
+                "projectPath": "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\ServerUtilities\\ServerUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "ENet-CSharp": {
+              "target": "Package",
+              "version": "[2.3.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\ServerUtilities\\ServerUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\ServerUtilities\\ServerUtilities.csproj",
+        "projectName": "ServerUtilities",
+        "projectPath": "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\ServerUtilities\\ServerUtilities.csproj",
+        "packagesPath": "C:\\Users\\Piotr Langer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Piotr Langer\\source\\repos\\HeroesServer\\ServerUtilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Piotr Langer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "ENet-CSharp": {
+              "target": "Package",
+              "version": "[2.3.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

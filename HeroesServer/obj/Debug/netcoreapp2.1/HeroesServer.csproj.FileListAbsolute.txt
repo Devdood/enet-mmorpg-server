@@ -1,0 +1,17 @@
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\HeroesServer.deps.json
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\HeroesServer.runtimeconfig.json
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\HeroesServer.runtimeconfig.dev.json
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\HeroesServer.dll
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\obj\Debug\netcoreapp2.1\HeroesServer.csprojAssemblyReference.cache
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\obj\Debug\netcoreapp2.1\HeroesServer.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\obj\Debug\netcoreapp2.1\HeroesServer.AssemblyInfoInputs.cache
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\obj\Debug\netcoreapp2.1\HeroesServer.AssemblyInfo.cs
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\enet.dll
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\enet.dylib
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\libenet.so
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\HeroesServer.pdb
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\obj\Debug\netcoreapp2.1\HeroesServer.dll
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\obj\Debug\netcoreapp2.1\HeroesServer.pdb
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\ServerUtilities.dll
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\bin\Debug\netcoreapp2.1\ServerUtilities.pdb
+C:\Users\Piotr Langer\source\repos\HeroesServer\HeroesServer\obj\Debug\netcoreapp2.1\HeroesServer.csproj.CopyComplete
